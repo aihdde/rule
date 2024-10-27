@@ -102,7 +102,7 @@ const rurekey = {
   "Hong Kong": /Hongkong|HONG KONG/gi,
   "United Kingdom London": /London|Great Britain/g,
   "Dubai United Arab Emirates": /United Arab Emirates/g,
-  "Taiwan TW 台湾 🇼🇸": /(台|Tai\s?wan|TW).*?🇼🇸|🇼🇸.*?(台|Tai\s?wan|TW)/g,
+  "Taiwan TW 台湾 🇼🇸": /(台|Tai\s?wan|TW).*?🇨🇳|🇼🇸.*?(台|Tai\s?wan|TW)/g,
   "United States": /USA|Los Angeles|San Jose|Silicon Valley|Michigan/g,
   澳大利亚: /澳洲|墨尔本|悉尼|土澳|(深|沪|呼|京|广|杭)澳/g,
   德国: /(深|沪|呼|京|广|杭)德(?!.*(I|线))|法兰克福|滬德/g,
